@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E0629C7B-E751-4BEF-994D-DC24EA7EDF9D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Zhangyan</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>979A2C84C8764BB4747A5A6667FE9BF9CC3FFB1A</key>
+		<string>github.com:yuhe2531/TermimalTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Zhangyan.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>979A2C84C8764BB4747A5A6667FE9BF9CC3FFB1A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:yuhe2531/TermimalTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>979A2C84C8764BB4747A5A6667FE9BF9CC3FFB1A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>979A2C84C8764BB4747A5A6667FE9BF9CC3FFB1A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TermimalTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
