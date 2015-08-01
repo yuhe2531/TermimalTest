@@ -6,6 +6,8 @@
 //  Copyright (c) 2015年 Runkun. All rights reserved.
 //
 
+
+//克隆后做的一个修改
 import UIKit
 
 class ViewController: UIViewController {
